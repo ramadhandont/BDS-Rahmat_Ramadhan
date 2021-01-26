@@ -1,3 +1,22 @@
+<p align="center">Download File Aplikasi,</p>
+<p align="center">
+Masukan ke server anda.
+Jika anda menggunakan local server silahkan copy folder ke
+htdock bila menggunakan xampp
+setelah itu buka file "vendor dan env.zip" dan extrack ke folder
+
+silahkan akses
+http://localhost/BDS-Rahmat_Ramadhan-main/public
+atau jika menggunakan arisan serve
+http://localhost:8000/
+
+anda bisa rename folder dan akses sesuai folder yang anda ganti
+http://localhost/[nama folder yang diganti]/public
+
+
+
+</p>
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
@@ -6,7 +25,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
